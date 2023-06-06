@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloTheZenCoder
+- 👋 Hi, I’m @PabloTheZenCoder, a.k.a Patrick Lutz
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Excel, SQL, Tableau, Python
 - 💞️ I’m looking to collaborate on Data Analytics projects
